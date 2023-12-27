@@ -69,6 +69,9 @@ https://github.com/fzinnah17/Yoda/assets/35609659/a1de4833-1239-44b2-9d6c-4a73cb
 ## Slide Deck
 [Pitch Deck](https://shorturl.at/ghnot "Pitch Deck")
 
+## Dev Post
+[Devpost](https://devpost.com/software/llmediator "Devpost")
+
 ## Usage
 
 Launch Yoda by running the provided command.
